@@ -1,0 +1,1 @@
+Crea un fichero nuevo, añade elemoentos un git add y uncommit
